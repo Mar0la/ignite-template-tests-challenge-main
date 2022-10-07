@@ -7,8 +7,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mar0la/ignite-template-tests-challenge
-?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mar0la/ignite-tests-challenge-main?style=flat">
   <a href="https://app.rocketseat.com.br/me/matheus-marins">
     <img alt="Made by Matheus Marins" src="https://img.shields.io/badge/mand%20by-matheus%20marins-darkgreen">
   </a>
@@ -33,14 +32,14 @@ Para que possa focar somente na parte de testes unitários sem precisar estudar 
 - Clone este repositório
 
 ```
-> git clone https://github.com/Mar0la/ignite-template-tests-challenge
+> git clone https://github.com/Mar0la/ignite-tests-challenge-main
 
 ```
 
 - Navegue até o diretório principal do projeto
 
 ```
-> cd ignite-template-tests-challenge
+> cd ignite-tests-challenge-main
 
 ```
 
@@ -76,8 +75,6 @@ yarn dev
 ### **Retorno que devemos ter ao digitar  <code>yarn test</code> no terminal** 
   - yarn jest 
     - ![jest ](./assets/jest.png)
-  - UserRepository 
-    - ![testFull ](./assets/testFull.png)
 
 ---
 
